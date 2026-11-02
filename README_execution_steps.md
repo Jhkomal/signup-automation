@@ -40,7 +40,7 @@ The manual testing contains:
 
 - 119 test cases, from TC-01 to TC-119
 - Test execution report
-- 12 documented bugs
+- 17 documented bugs
 - Summary report with screenshots
 
 Files:
